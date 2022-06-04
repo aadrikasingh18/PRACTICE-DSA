@@ -10,10 +10,8 @@ public class Java_02_BinarySearch {
         while(low <= up)
         {
             int mid = (low + up)/2;
-
             if(a[mid] == k)
                 return mid;
-
             if(a[mid] < k)
                 low = mid + 1;
             else

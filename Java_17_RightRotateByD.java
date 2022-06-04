@@ -1,8 +1,6 @@
-// d=1 and d=2 ke liye wrong ans aa rha hai
-
 package com.company;
 import java.util.Scanner;
-public class Java_17RightRotateByD
+public class Java_17_RightRotateByD
 {
     public static void main(String[] args)
     {

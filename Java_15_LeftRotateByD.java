@@ -1,5 +1,4 @@
 package com.company;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Java_15_LeftRotateByD
 {
