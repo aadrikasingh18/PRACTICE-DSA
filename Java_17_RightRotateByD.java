@@ -11,10 +11,10 @@ public class Java_17_RightRotateByD
         int[] a = new int[n];
         for (int i = 0; i < n; i++)
         {
-            a[i] = sc.nextInt(); // 1 2 3
+            a[i] = sc.nextInt();
         }
         System.out.print("Enter value of D : ");
-        int d = sc.nextInt(); // 1
+        int d = sc.nextInt();
         int[] b = new int[d];
         int m = 0;
         for (int i = n-d; i < n ; i++)

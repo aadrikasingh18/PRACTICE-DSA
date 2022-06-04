@@ -1,8 +1,7 @@
 package com.company;
-
 import java.util.Scanner;
-
-public class Java_06_DeletionAtBeginning {
+public class Java_06_DeletionAtBeginning
+{
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);

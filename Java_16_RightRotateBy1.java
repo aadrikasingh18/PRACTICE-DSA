@@ -1,5 +1,5 @@
 package com.company;
-import java.util.Scanner;
+import java.util.*;
 public class Java_16_RightRotateBy1
 {
     public static void main(String[] args)

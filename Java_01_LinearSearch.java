@@ -26,7 +26,7 @@ public class Java_01_LinearSearch
             }
         }
         if(flag == 1)
-            System.out.println(k + " is found at index " + t);
+            System.out.println("Element " + k + " is found at index " + t);
         else
             System.out.println("Element is not found.");
     }

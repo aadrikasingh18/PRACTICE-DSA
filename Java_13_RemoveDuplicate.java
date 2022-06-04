@@ -1,4 +1,5 @@
 // REMOVE DUPLICATES FROM A SORTED ARRAY
+// METHOD 1 & 2 BOTH ARE CORRECT
 
 // I/P : 1 1 1 2 2 3
 // O/P : 1 2 3
@@ -81,6 +82,8 @@
 //        }
 //    }
 //}
+
+// METHOD 2
 
 package com.company;
 import java.util.*;

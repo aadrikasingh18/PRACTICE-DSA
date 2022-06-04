@@ -1,7 +1,5 @@
 package com.company;
-
 import java.util.Scanner;
-
 public class Java_10_IsArraySortedOrNot
 {
     public static void main(String[] args)
@@ -18,7 +16,8 @@ public class Java_10_IsArraySortedOrNot
         int k = 0;
         for (int i = 0; i < n-1 ; i++)
         {
-            if(a[i+1] < a[i]) {
+            if(a[i+1] < a[i])
+            {
                 k = 1;
                 System.out.println("Array is not sorted");
                 break;

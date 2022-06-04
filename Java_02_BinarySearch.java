@@ -1,8 +1,7 @@
 package com.company;
-
 import java.util.Scanner;
-
-public class Java_02_BinarySearch {
+public class Java_02_BinarySearch
+{
     static int binarySearch(int a[], int n, int k) // array, it's length and element to be found are in parameters
     {
         int low = 0;

@@ -1,6 +1,7 @@
 package com.company;
 import java.util.Scanner;
-public class Java_12_Reverse2 {
+public class Java_12_Reverse2
+{
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);

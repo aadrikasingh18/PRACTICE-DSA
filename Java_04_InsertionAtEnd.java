@@ -1,9 +1,9 @@
 package com.company;
-
 import java.util.Scanner;
-
-public class Java_04_InsertionAtEnd {
-    public static void main(String[] args) {
+public class Java_04_InsertionAtEnd
+{
+    public static void main(String[] args)
+    {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of elements in an array : ");
         int n = sc.nextInt();

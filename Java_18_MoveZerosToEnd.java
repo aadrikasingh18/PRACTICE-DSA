@@ -65,7 +65,6 @@ public class Java_18_MoveZerosToEnd
             a[i] = sc.nextInt();
         }
         int count = 0;
-        // 1 2 0 3 0
         for (int i = 0; i < n; i++)
         {
             if(a[i] != 0)

@@ -1,5 +1,5 @@
-// Reverse function is used in case when string builder is present
-// or in case of Array list
+// Reverse function is used in case when string builder is present or
+// in case of Array list
 
 package com.company;
 import java.util.Scanner;

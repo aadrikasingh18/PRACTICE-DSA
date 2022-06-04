@@ -1,4 +1,4 @@
-// METHOD 1 & 2 DONO HOGYE!!!
+// METHOD 1 & 2 BOTH ARE CORRECT !!!
 // METHOD 01
 //package com.company;
 //import java.util.*;

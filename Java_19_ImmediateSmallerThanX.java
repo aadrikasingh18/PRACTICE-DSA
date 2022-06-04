@@ -1,7 +1,8 @@
 // Given an array containing positive integers and an integer X,
 // find the element in the array which is smaller than X and closest to it.
 
-// kuch cases nhi ho rhe execute gfg pr
+// FEW CASES ARE NOT EXECUTING ON GFG
+
 package com.company;
 import java.util.*;
 public class Java_19_ImmediateSmallerThanX

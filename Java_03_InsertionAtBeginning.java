@@ -1,8 +1,7 @@
 package com.company;
-
 import java.util.Scanner;
-
-public class Java_03_InsertionAtBeginning {
+public class Java_03_InsertionAtBeginning
+{
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
@@ -17,7 +16,8 @@ public class Java_03_InsertionAtBeginning {
         System.out.print("Enter element to be inserted in the beginning : ");
         int k = sc.nextInt();
         int[] b = new int[n+1];
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+        {
             b[i+1] = a[i];
         }
         b[0] = k;
